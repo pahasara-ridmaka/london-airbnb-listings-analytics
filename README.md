@@ -10,7 +10,7 @@ Dataset: London Airbnb Listings (Kaggle)
 
 Source: https://www.kaggle.com/datasets/phananh715/london-air-bnb-dataset
 
-<video src="https://raw.githubusercontent.com/pahasara-ridmaka/london-airbnb-listings-analytics/main/presentations/as2022901_presentation_video.mp4" width="100%" controls>
+<video src="presentations/as2022901_presentation_video.mp4" width="100%" controls>
   Your browser does not support the video tag.
 </video>
 
