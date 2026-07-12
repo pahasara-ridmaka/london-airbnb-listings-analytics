@@ -8,9 +8,6 @@
 
 Dataset: London Airbnb Listings (Kaggle)  
 
-Uploading as2022901_presentation_video.mp4…
-
-
 Source: https://www.kaggle.com/datasets/phananh715/london-air-bnb-dataset
 
 ---
